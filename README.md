@@ -27,7 +27,7 @@
 
 Incremental progression meets roguelite runs, backed by an online server that keeps player data safe and in sync.
 
-📂 **Repository:** [Incremental Pulse](#)
+📂 **Repository:** [Incremental Pulse](Is a private repo)
 
 ---
 
@@ -42,7 +42,7 @@ Incremental progression meets roguelite runs, backed by an online server that ke
 
 A cozy 16-bit, GBA-style automation game where your factory runs on Python you write yourself. Script miners, belts, smelters and steam power on a floating industrial island, sell to the cargo train, and work through the Engineering Manual, where every new idea (loops, functions, modules, generators) lets you build bigger and smarter.
 
-📂 **Repository:** [PypeLine](#)
+📂 **Repository:** [PypeLine](https://github.com/OGpisuars/PypeLine)
 
 ---
 
@@ -55,7 +55,7 @@ A cozy 16-bit, GBA-style automation game where your factory runs on Python you w
 
 A retro open-world car game with a story: deliver pizzas, race for pink slips, dodge potholes and police, and keep your ride alive with parts from the shop — or from a sketchy guy on your phone.
 
-📂 **Repository:** [SLAMMD](#)
+📂 **Repository:** [SLAMMD](Is a private repo)
 
 ---
 
