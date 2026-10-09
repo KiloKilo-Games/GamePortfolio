@@ -59,6 +59,8 @@ A retro open-world car game with a story: deliver pizzas, race for pink slips, d
 
 📂 **Repository:** [SLAMMD](Is a private repo)
 
+💾 **Download:** [SLAMMD](https://kilokilo-games.itch.io/slammd)
+
 ---
 
 <div align="center">
