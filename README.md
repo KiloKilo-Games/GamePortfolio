@@ -28,7 +28,7 @@
 Incremental progression meets roguelite runs, backed by an online server that keeps player data safe and in sync.
 
 📂 **Repository:** [Incremental Pulse](Is a private repo)
-
+💾 **Download:** [Incremental Pulse](kaapers.itch.io/pulse-evolution)
 ---
 
 ## 🏭 PypeLine
