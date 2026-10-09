@@ -27,7 +27,7 @@
 
 Incremental progression meets roguelite runs, backed by an online server that keeps player data safe and in sync.
 
-📂 **Repository:** [Incremental Pulse](Is a private repo)
+📂 **Repository:** (Is a private repo)
 
 💾 **Download:** [Incremental Pulse](https://kaapers.itch.io/pulse-evolution)
 
@@ -57,7 +57,7 @@ A cozy 16-bit, GBA-style automation game where your factory runs on Python you w
 
 A retro open-world car game with a story: deliver pizzas, race for pink slips, dodge potholes and police, and keep your ride alive with parts from the shop — or from a sketchy guy on your phone.
 
-📂 **Repository:** [SLAMMD](Is a private repo)
+📂 **Repository:** (Is a private repo)
 
 💾 **Download:** [SLAMMD](https://kilokilo-games.itch.io/slammd)
 
